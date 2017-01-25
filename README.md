@@ -7,4 +7,9 @@
 ####uppfæringar.
 ###3. Hvað er fyrirbyggjandi viðhald?
 ####Svar: fyrirfram planað viðhald við tölfur til að hindra fyrir því að talfan skemmist.
+###4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+###verjast því þegar unnið er með tölvubúnað?
+####Svar: Electrostatic discharge er skyndilegt flæði raforku á milli rafhlaðinna hluta, getur skemmt ákveðna hluti
+####inni í tölfuni, margar leiðir til að verjast því, til dæmis: Ekki setja tölfuna á teppi, eða aðra hluti sem eru
+####gerðir úr einhverju efni, ekki stand á teppi, sérstaklega ekki í sokkum (byggja upp rafstraum).
 
