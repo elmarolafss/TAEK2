@@ -24,5 +24,8 @@
 ####Lokuð: spurning sem maður getur svarað með "Já" eðe "Nei".
 ####Dæmi um opna: "Hvaða vélbúnað ertu með í tölfuni?"
 ####Dæmi um lokaða: "Er kveikt á tölfuni?"
+###8. Hvað eru jaðartæki?
+####Svar: Jaðartæki geta verið að innan eða að utan, Dæmi um jaðartæki að innan: CD-ROM. Dæmi um jaðardæki að utan: 
+####Mús, Lyklaborð.
 
 
