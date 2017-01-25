@@ -27,5 +27,7 @@
 ###8. Hvað eru jaðartæki?
 ####Svar: Jaðartæki geta verið að innan eða að utan, Dæmi um jaðartæki að innan: CD-ROM. Dæmi um jaðardæki að utan: 
 ####Mús, Lyklaborð.
+###9. Nefndu þrjú dæmi um inntakstæki
+####Svar: Lyklaborð, hljóðnemi, vef myndavél
 
 
