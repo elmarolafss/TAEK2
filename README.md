@@ -17,4 +17,12 @@
 ###6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ####Svar: 1.Sannreyna vandamálið. 2.Finna önnur einkenni sem lýkjast þessu. 3.Greina einkenni. 4.Einangra vandamálið
 ####5.Leiðrétta vandamálið 6.Prufa hvort vandinn er leystur.
+###7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+###Nefnið dæmi um báðar gerðir af spurningum.
+####Svar: 
+####Opin spurning: Spurningar sem þurfa meira en eitt orð til að svara.
+####Lokuð: spurning sem maður getur svarað með "Já" eðe "Nei".
+####Dæmi um opna: "Hvaða vélbúnað ertu með í tölfuni?"
+####Dæmi um lokaða: "Er kveikt á tölfuni?"
+
 
