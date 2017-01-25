@@ -32,7 +32,7 @@
 ###10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 ###leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 ###fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-####Svar: 
+####Svar:
 ####Turnkassi: Corsair Carbide 100R, Verð: 14.990.-
 ####Aflgjafi: Thermaltake SMART SE 730 watta, Verð: 17.900.-
 ####Móðurborð:  ASRock Z170M Extreme4, Verð: 26.900.-
@@ -42,4 +42,5 @@
 ####Skjákort:  PNY GTX1070 Founders Edition 8GB, Verð: 74.900.-
 ####Netkort: Intel Gigabit netkort PCI-Express, Verð: 5.990.-
 ####Hljóðkort: Asus Xonar Phoebus 7.1 PCI-Expresss hljóðkort, Verð: 24.900.-
+###Heildarverð: 233.280.-
 ###Allt fæst hjá Tölvutækni.is
