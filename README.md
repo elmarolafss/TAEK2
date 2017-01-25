@@ -12,4 +12,6 @@
 ####Svar: Electrostatic discharge er skyndilegt flæði raforku á milli rafhlaðinna hluta, getur skemmt ákveðna hluti
 ####inni í tölfuni, margar leiðir til að verjast því, til dæmis: Ekki setja tölfuna á teppi, eða aðra hluti sem eru
 ####gerðir úr einhverju efni, ekki stand á teppi, sérstaklega ekki í sokkum (byggja upp rafstraum).
+###5. Hvað þarf að hafa í huga við val á spennugjöfum?
+####Maður þarf að hafa í huga hversu mikið af spennu maður þarf, hvaða tölvubúnað þarf maður að gefa spennu,
 
